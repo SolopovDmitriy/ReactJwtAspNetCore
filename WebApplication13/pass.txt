@@ -1,0 +1,5 @@
+Имя сервера simplewebreactapp-server
+Обработчик SQLAzure
+Регион West Europe
+Имя пользователя simplewebreactapp-server-admin
+Пароль E86154WKW6RS23OI$
